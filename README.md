@@ -1,1 +1,1 @@
-# solid management app
+# Solid Management App
